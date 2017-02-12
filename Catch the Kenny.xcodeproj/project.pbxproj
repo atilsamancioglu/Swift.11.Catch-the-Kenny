@@ -12,6 +12,7 @@
 		FC95C9CD1E3CA88400D71E68 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC95C9CB1E3CA88400D71E68 /* Main.storyboard */; };
 		FC95C9CF1E3CA88400D71E68 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC95C9CE1E3CA88400D71E68 /* Assets.xcassets */; };
 		FC95C9D21E3CA88400D71E68 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC95C9D01E3CA88400D71E68 /* LaunchScreen.storyboard */; };
+		FC95C9DA1E3CA8C700D71E68 /* kenny.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC95C9D91E3CA8C700D71E68 /* kenny.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FC95C9CE1E3CA88400D71E68 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC95C9D11E3CA88400D71E68 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC95C9D31E3CA88400D71E68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC95C9D91E3CA8C700D71E68 /* kenny.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kenny.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				FC95C9C71E3CA88400D71E68 /* AppDelegate.swift */,
 				FC95C9C91E3CA88400D71E68 /* ViewController.swift */,
+				FC95C9D91E3CA8C700D71E68 /* kenny.jpg */,
 				FC95C9CB1E3CA88400D71E68 /* Main.storyboard */,
 				FC95C9CE1E3CA88400D71E68 /* Assets.xcassets */,
 				FC95C9D01E3CA88400D71E68 /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FC95C9D21E3CA88400D71E68 /* LaunchScreen.storyboard in Resources */,
+				FC95C9DA1E3CA8C700D71E68 /* kenny.jpg in Resources */,
 				FC95C9CF1E3CA88400D71E68 /* Assets.xcassets in Resources */,
 				FC95C9CD1E3CA88400D71E68 /* Main.storyboard in Resources */,
 			);
