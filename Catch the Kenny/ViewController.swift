@@ -126,6 +126,7 @@ class ViewController: UIViewController {
             if self.score > Int(highScoreLabel.text!)! {
                 
                 UserDefaults.standard.set(self.score, forKey: "highscore")
+                UserDefaults.standard.synchronize()
                 highScoreLabel.text = String(self.score)
                 
             }
